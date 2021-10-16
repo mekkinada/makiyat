@@ -1,0 +1,173 @@
+14-10-2021 07:54:08 info: Server Running on port: 9000
+14-10-2021 07:54:11 info: MongoDB Connected
+14-10-2021 07:54:23 info: Returning all cards
+14-10-2021 07:54:24 info: Returning all cards
+14-10-2021 07:56:26 info: Returning all cards
+14-10-2021 07:56:26 info: Returning all cards
+14-10-2021 07:56:52 info: Returning all cards
+14-10-2021 07:56:52 info: Returning all cards
+14-10-2021 07:56:55 info: Returning all cards
+14-10-2021 07:56:56 info: Returning all cards
+14-10-2021 07:59:26 info: Returning all cards
+14-10-2021 07:59:26 info: Returning all cards
+14-10-2021 07:59:29 info: Returning all cards
+14-10-2021 07:59:29 info: Returning all cards
+14-10-2021 07:59:37 info: Returning all cards
+14-10-2021 07:59:38 info: Returning all cards
+14-10-2021 08:00:07 info: Server Running on port: 9000
+14-10-2021 08:00:10 info: MongoDB Connected
+14-10-2021 08:00:21 info: Returning all cards
+14-10-2021 08:00:21 info: Returning all cards
+14-10-2021 08:05:28 info: Server Running on port: 9000
+14-10-2021 08:05:30 info: MongoDB Connected
+14-10-2021 08:07:24 info: Server Running on port: 9000
+14-10-2021 08:07:27 info: MongoDB Connected
+14-10-2021 08:10:00 info: Performing cronjob to remove unsaved images
+14-10-2021 08:21:22 info: Returning all cards
+14-10-2021 08:21:22 info: Returning all cards
+14-10-2021 08:30:11 info: Server Running on port: 9000
+14-10-2021 08:30:14 info: MongoDB Connected
+14-10-2021 08:30:20 info: Returning all cards
+14-10-2021 08:30:20 info: Returning all cards
+14-10-2021 08:30:21 info: Returning all cards
+14-10-2021 08:30:21 info: Returning all cards
+14-10-2021 16:30:20 info: Server Running on port: 9000
+14-10-2021 16:30:23 info: MongoDB Connected
+14-10-2021 16:32:11 info: Returning all cards
+14-10-2021 16:32:11 info: Returning all cards
+14-10-2021 16:34:27 info: Server Running on port: 3000
+14-10-2021 16:34:30 info: MongoDB Connected
+14-10-2021 16:34:36 info: Returning all cards
+14-10-2021 16:34:37 info: Returning all cards
+14-10-2021 16:34:53 info: removing card 61668bfad597f32204257d77
+14-10-2021 16:34:54 info: Returning all cards
+14-10-2021 16:34:57 info: Returning all cards
+14-10-2021 16:34:57 info: Returning all cards
+14-10-2021 16:34:58 info: Returning all cards
+14-10-2021 16:34:58 info: Returning all cards
+14-10-2021 16:35:47 info: Server Running on port: 3000
+14-10-2021 16:35:54 info: MongoDB Connected
+14-10-2021 16:51:29 info: Server Running on port: 3000
+14-10-2021 16:51:32 info: MongoDB Connected
+14-10-2021 16:55:16 info: Server Running on port: 3000
+14-10-2021 16:55:19 info: MongoDB Connected
+14-10-2021 16:57:13 info: Returning all cards
+14-10-2021 16:57:14 info: Returning all cards
+14-10-2021 17:02:23 info: Server Running on port: 3000
+14-10-2021 17:02:26 info: MongoDB Connected
+14-10-2021 17:03:18 info: Returning all cards
+14-10-2021 17:03:18 info: Returning all cards
+14-10-2021 17:03:20 info: Returning all cards
+14-10-2021 17:03:20 info: Returning all cards
+14-10-2021 17:10:00 info: Performing cronjob to remove unsaved images
+14-10-2021 17:12:17 info: Server Running on port: 3000
+14-10-2021 17:12:20 info: MongoDB Connected
+14-10-2021 17:19:22 info: Server Running on port: 3000
+14-10-2021 17:19:24 info: MongoDB Connected
+14-10-2021 17:19:33 info: Returning all cards
+14-10-2021 17:19:33 info: Returning all cards
+14-10-2021 17:20:10 info: User 616858ba0090003498980a83 Registered
+14-10-2021 17:20:19 info: User 616858ba0090003498980a83 Logged
+14-10-2021 17:20:19 info: Returning all cards
+14-10-2021 17:20:19 info: Returning all cards
+14-10-2021 18:33:14 info: Server Running on port: 3000
+14-10-2021 18:33:19 info: MongoDB Connected
+14-10-2021 18:33:25 info: Returning all cards
+14-10-2021 18:33:25 info: Returning all cards
+14-10-2021 18:42:22 info: Returning all cards
+14-10-2021 18:42:22 info: Returning all cards
+14-10-2021 18:42:38 info: Server Running on port: 3000
+14-10-2021 18:42:41 info: MongoDB Connected
+14-10-2021 18:42:44 info: Returning all cards
+14-10-2021 18:42:44 info: Returning all cards
+14-10-2021 18:42:45 info: Returning all cards
+14-10-2021 18:42:45 info: Returning all cards
+14-10-2021 18:44:29 info: Server Running on port: 3000
+14-10-2021 18:44:32 info: MongoDB Connected
+14-10-2021 18:44:39 info: Returning all cards
+14-10-2021 18:44:39 info: Returning all cards
+14-10-2021 18:47:54 info: Server Running on port: 3000
+14-10-2021 18:47:57 info: MongoDB Connected
+14-10-2021 19:10:00 info: Performing cronjob to remove unsaved images
+14-10-2021 19:18:35 info: Server Running on port: 3000
+14-10-2021 19:18:38 info: MongoDB Connected
+14-10-2021 19:18:39 info: Returning all cards
+14-10-2021 19:18:39 info: Returning all cards
+14-10-2021 19:49:30 info: Server Running on port: 3000
+14-10-2021 19:49:34 info: MongoDB Connected
+14-10-2021 19:49:44 info: Returning all cards
+14-10-2021 19:49:44 info: Returning all cards
+14-10-2021 19:55:45 info: Returning all cards
+14-10-2021 19:55:45 info: Returning all cards
+14-10-2021 19:58:02 info: User 61687db9f67c4b2520b0ff73 Registered
+14-10-2021 19:58:35 info: User 61687db9f67c4b2520b0ff73 Logged
+14-10-2021 19:58:35 info: Returning all cards
+14-10-2021 19:58:36 info: Returning all cards
+14-10-2021 20:01:37 info: saving image images/1634238097435-61687db9f67c4b2520b0ff73.jpg
+14-10-2021 20:01:37 info: saving card61687e91f67c4b2520b0ff7a
+14-10-2021 20:01:38 info: Returning all cards
+14-10-2021 20:01:38 info: Returning all cards
+14-10-2021 20:06:01 info: Server Running on port: 3000
+14-10-2021 20:06:03 info: MongoDB Connected
+14-10-2021 20:06:07 info: Returning all cards
+14-10-2021 20:06:07 info: Returning all cards
+14-10-2021 20:06:23 info: User 61687db9f67c4b2520b0ff73 Logged
+14-10-2021 20:06:23 info: Returning all cards
+14-10-2021 20:06:24 info: Returning all cards
+14-10-2021 20:08:02 info: User 61688012e5a9672fb8f9adcd Registered
+14-10-2021 20:08:22 info: User 61688012e5a9672fb8f9adcd Logged
+14-10-2021 20:08:22 info: Returning all cards
+14-10-2021 20:08:23 info: Returning all cards
+14-10-2021 20:10:00 info: Performing cronjob to remove unsaved images
+14-10-2021 20:12:59 info: Server Running on port: 3000
+14-10-2021 20:13:02 info: MongoDB Connected
+14-10-2021 20:13:08 info: Returning all cards
+14-10-2021 20:13:09 info: Returning all cards
+14-10-2021 20:19:37 info: saving image images/1634239177544-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:19:42 info: saving image images/1634239182000-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:19:43 info: saving image images/1634239183319-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:19:50 info: saving image images/1634239190384-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:19:52 info: Returning all cards
+14-10-2021 20:19:52 info: Returning all cards
+14-10-2021 20:20:48 info: saving image images/1634239248843-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:20:50 info: saving image images/1634239250357-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:20:51 info: saving image images/1634239251646-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:20:57 info: Returning all cards
+14-10-2021 20:20:57 info: Returning all cards
+14-10-2021 20:21:44 info: Server Running on port: 3000
+14-10-2021 20:21:47 info: MongoDB Connected
+14-10-2021 20:22:01 info: Returning all cards
+14-10-2021 20:22:01 info: Returning all cards
+14-10-2021 20:22:29 info: saving image images/1634239349046-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:22:31 info: saving image images/1634239351167-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:22:32 info: saving image images/1634239352443-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:22:34 info: saving image images/1634239354183-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:23:07 info: saving image images/1634239387144-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:23:08 info: saving image images/1634239388709-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:23:36 info: saving image images/1634239416623-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:23:37 info: saving image images/1634239417959-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:23:39 info: saving image images/1634239419150-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:23:40 info: saving image images/1634239420277-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:23:41 info: saving image images/1634239421748-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:23:41 info: saving image images/1634239421873-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:23:41 info: saving image images/1634239421875-61688012e5a9672fb8f9adcd.jpg
+14-10-2021 20:24:07 info: User 61687db9f67c4b2520b0ff73 Logged
+14-10-2021 20:24:08 info: Returning all cards
+14-10-2021 20:24:08 info: Returning all cards
+14-10-2021 20:25:09 info: saving image images/1634239509719-61687db9f67c4b2520b0ff73.jpg
+14-10-2021 20:25:11 info: saving image images/1634239511155-61687db9f67c4b2520b0ff73.jpg
+14-10-2021 20:25:11 info: saving image images/1634239511312-61687db9f67c4b2520b0ff73.jpg
+14-10-2021 20:25:11 info: saving image images/1634239511770-61687db9f67c4b2520b0ff73.jpg
+14-10-2021 20:32:52 info: Server Running on port: 3000
+14-10-2021 20:32:55 info: MongoDB Connected
+14-10-2021 20:33:01 info: Returning all cards
+14-10-2021 20:33:02 info: Returning all cards
+14-10-2021 20:33:39 info: saving image images/1634240019177-61687db9f67c4b2520b0ff73.jpg
+14-10-2021 20:33:48 info: saving image images/1634240028278-61687db9f67c4b2520b0ff73.jpg
+14-10-2021 20:33:56 info: Returning all cards
+14-10-2021 20:33:57 info: Returning all cards
+14-10-2021 20:34:03 info: Returning card id: 61687e91f67c4b2520b0ff7a
+14-10-2021 20:34:03 info: Returning card id: 61687e91f67c4b2520b0ff7a
+14-10-2021 20:34:24 info: Updating card 61687e91f67c4b2520b0ff7a
+14-10-2021 20:34:24 info: Returning all cards
+14-10-2021 20:34:26 info: Returning all cards
