@@ -10,7 +10,6 @@
 		"nodejs",
 		"react"
 	],
-	"author": "Lameck",
 	"license": "ISC",
 	"dependencies": {
 		"bcryptjs": "^2.4.3",
