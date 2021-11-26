@@ -1,5 +1,5 @@
 # makiyat
-
+the code : https://codesandbox.io/s/library-makiyat-mqoxy
 - Git
 - Docker
 - Node.js
@@ -7,7 +7,7 @@
 - React.js
 - Redux
 - ESLint
-1-
-cd client
-npm i
-npm run-script build
+
+##cd client
+##npm i
+##npm run-script build
